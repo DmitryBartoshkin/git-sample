@@ -1,2 +1,2 @@
 Hello dev branch
-New line for dev file
+new line
